@@ -1,0 +1,91 @@
+body { /*basic design stuff for the pages part of the site*/
+	font-family: Verdana;
+	margin: 0;
+    background-color: aliceblue;
+}
+
+
+
+header {
+    background-color: lightblue;
+}
+
+
+
+nav { /*nav bar at top*/
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+    color: aliceblue;
+    background-color: lightcoral;
+}
+nav ul {
+    margin-top: 0;
+}
+nav li {
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+h1 {
+    width: 70%;
+    margin: auto;
+}
+
+
+
+
+.inpage_links { /*linking to diff parts of the page stuff, should be fixed to left side*/
+    width: 13%;
+    height: 100%;
+    position: fixed;
+    float: left;
+    font-size: 12px;
+
+}
+.inpage_links a {
+    text-decoration: none;
+    color: palevioletred;
+}
+
+
+
+.content{ /*the words*/
+    width: 70%;
+    border-bottom: 5px solid grey;
+    margin: auto;
+}
+
+
+
+aside { /*side bar stuff*/
+    font-weight: bold;
+    padding-left: 5px;
+	padding-right: 5px;
+    border: 5px dashed lightsalmon;
+    background-color: lightyellow;
+    color: orangered;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;    
+    margin-right: auto;
+}
+caps {
+    text-align: center;
+    font-size: 12px;
+}
+
+.captions {
+    text-align: center;
+    font-size: 12px;
+}
