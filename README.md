@@ -11,3 +11,4 @@ If I had more time, I would try to make the pages more aesthetically pleasing an
 I also think the pages would look more professional with better-separated sections within the pages and centered headers.
 Personally, there is so much information thrown at the viewer in each section.
 Making the images smaller or shortening the amount of space may have helped this.
+Someone had mentioned to add a link to jump forward to the next and backward to the last section in the page, but I wasn’t able to do that within this time frame, though it was a great idea.
